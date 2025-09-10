@@ -1,0 +1,4 @@
+To run the C code in linux, run the following prompts in terminal:
+
+gcc file.c -o file   # To compile the file
+./file               # To run the file
